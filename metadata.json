@@ -1,0 +1,8 @@
+{
+  "name": "TradeSync Nigeria",
+  "description": "The Operating System for Nigerian SMEs. A unified Trust & Operations platform bridging merchants, suppliers, and logistics with smart escrow and offline-first tools.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
